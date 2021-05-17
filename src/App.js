@@ -141,7 +141,7 @@ function App() {
         <div className="projects_left">
           <div className="subheading">HiGom</div>
           <div className="projects_info">게임을 통해 배우는 영어 학습 앱</div>
-          <div className="projects_smallinfo">- 카드 넘기기</div>
+          <div className="projects_smallinfo">- 플래시 카드</div>
           <div className="projects_smallinfo">- 즐겨찾기</div>
           <div className="button">
             <button onClick={() => window.open('https://github.com/hannajung/HiGom', '_blank')} className="project_button">Github</button>
